@@ -6,7 +6,7 @@
 <body>
 <center><B><font size=+2>Serverdoc</font></B><BR><BR>
 <a href= "http://www.serverdoc.com/"><img src="https://www.serverdoc.com/images/sdimages/sd_selection.gif"></a><BR><BR>
-[<a href ="about.php">About</a>] [<a href ="gettingstarted.php">Getting Started</a>] [<a href ="userguide.php">Userguide</a>]<BR><BR>
+[<a href ="about.md">About</a>] [<a href ="gettingstarted.md">Getting Started</a>] [<a href ="userguide.md">Userguide</a>]<BR><BR>
 </center><BR><BR>
 <a href="#startup"><u>Serverdoc Startup</u></a> - read this and things will be easier :)<br>
 <br><a href="#Installing">

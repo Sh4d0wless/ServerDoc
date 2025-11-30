@@ -6,7 +6,7 @@ Serverdoc - Restart crashed servers applications and programs
 
 
 [](http://www.serverdoc.com/)
-[[README](README.md)] [[Getting Started](gettingstarted.php)] [[Userguide](userguide.php)]
+[[README](README.md)] [[Getting Started](gettingstarted.md)] [[Userguide](userguide.md)]
 
 What does ServerDoc do
 

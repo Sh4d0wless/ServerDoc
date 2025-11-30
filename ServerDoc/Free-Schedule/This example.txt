@@ -1,0 +1,1 @@
+This is a simple example of loading a command on startup using the schedule.txt file. Please see the schedule.txt in serverdoc.zip for options on setting scheduled events.

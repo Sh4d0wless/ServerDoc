@@ -1,0 +1,1 @@
+In example the command line is loaded from the "run" line in wwwconfig.cfg

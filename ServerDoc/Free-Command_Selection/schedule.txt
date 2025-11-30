@@ -1,0 +1,5 @@
+99 99 99 99 99 -r::1:wwwrotate.dat
+
+'wwwrotate.dat contains a list of commands available to run using remote access via webbrowser.
+'the ::1 tells serverdoc to load line 1 (first line is 0, the second line is 1) so if 
+'you wanted to load the 3rd line you would use 0 0 * 1 1 -r::2:wwwrotate.dat

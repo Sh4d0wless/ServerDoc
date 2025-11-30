@@ -1,0 +1,36 @@
+<html><head><title>
+Pro Gam Co remote control panel
+</title></head>
+<body>
+<div style="text-align: center;"><font size=-1>Serverdoc *SDVERSION*<BR></font><BR><img src="http://www.serverdoc.com/demo/Image2.gif" title="" alt=""><br>
+<br>
+
+<!-- displays command running if server is running-->
+<SDSERVERRUNNING>Command Running: *SDCOMMAND*</SD>
+
+<!-- displays command if server not running -->
+<SD-R-SERVERRUNNING>Command: *SDCOMMAND*</SD>
+<BR>
+
+<!-- displays start image and link if server is not running-->
+<SD-R-SERVERRUNNING><a href="/start"><img src="http://www.serverdoc.com/demo/Image3.gif" title="" alt="" style="border: 0px solid ; width: 148px; height: 56px;"></a><br></SD>
+
+<!-- displays stop image and link if server is running-->
+<SDSERVERRUNNING><a href="/stop"><img src="http://www.serverdoc.com/demo/Image4.gif" title="" alt="" style="border: 0px solid ; width: 148px; height: 56px;"></a><br></SD>
+
+<BR>
+<FORM ACTION="/CHANGE" METHOD="POST">
+This display and saves the "hostname" value in server.cfg
+<BR>Hostname<INPUT TYPE=text SIZE="25" NAME="*SDFE-myhostname*" value="*SDFEV-myhostname*">
+<input type="Submit" value ="Save" ></form>
+
+
+<FORM ACTION="/CHANGE" METHOD="POST">
+This display and saves mapcycle.txt<BR>
+<textarea name="*SDFE-myfile*" id="message" rows="10" cols="20" wrap="virtual" tabindex="1">*SDFEV-myfile*</textarea><BR>
+<input type="Submit" value ="Save Map List" ></form>
+
+
+</SD>
+</div>
+</body></html>

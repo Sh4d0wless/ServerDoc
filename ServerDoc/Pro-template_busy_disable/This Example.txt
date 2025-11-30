@@ -1,0 +1,14 @@
+You will need a valid serverdoc pro key to correctly run this example.
+
+In this example the command line is loaded from the "run" line in wwwconfig.cfg
+HTTP port for remote access is started on port 4102 with user "myname" and password "mypass"
+(Visit http://127.0.0.1:4102/ when serverdoc is running)
+
+Stop and start the server, you will see templatebusy.html is displayed as the busy page. You can edit this (templatebusy.html) to make it look as you wish but don't forget you need the refresh command
+  <META HTTP-EQUIV="refresh" CONTENT="2">
+in the html so the page is refreshed.
+
+Now via SDcontrol or serverdoc disable this serverdoc, now try and connect to the remote interface
+http://127.0.0.1:4102
+you should be greeted with a notice, this you can also change to whatever you want (templatedisabled.html)
+

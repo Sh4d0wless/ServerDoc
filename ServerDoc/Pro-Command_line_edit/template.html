@@ -1,0 +1,40 @@
+<html><head><title>
+Pro Gam Co remote control panel
+</title></head>
+<body>
+<div style="text-align: center;"><font size=-1>Serverdoc *SDVERSION*<BR></font><BR><img src="http://www.serverdoc.com/demo/Image2.gif" title="" alt=""><br>
+<br>
+
+<!-- displays command running if server is running-->
+<SDSERVERRUNNING>Command Running: *SDCOMMAND*</SD>
+
+<!-- displays command if server not running -->
+<SD-R-SERVERRUNNING>Command: *SDCOMMAND*</SD>
+<BR>
+
+<!-- displays start image and link if server is not running-->
+<SD-R-SERVERRUNNING><a href="/start"><img src="http://www.serverdoc.com/demo/Image3.gif" title="" alt="" style="border: 0px solid ; width: 148px; height: 56px;"></a><br></SD>
+
+<!-- displays stop image and link if server is running-->
+<SDSERVERRUNNING><a href="/stop"><img src="http://www.serverdoc.com/demo/Image4.gif" title="" alt="" style="border: 0px solid ; width: 148px; height: 56px;"></a><br></SD>
+
+<!-- displays edit options if server is not running-->
+<SD-R-SERVERRUNNING>
+<FORM ACTION="/CHANGE" METHOD="GET">
+Game Type <SELECT NAME = "*SDGameType*">
+<OPTION VALUE = "*SDvgametype*">*SDVgametype*
+<OPTION VALUE = "Cstrike">HL - Counter Strike
+<OPTION VALUE = "DOD">HL - Day of defeat</SELECT>
+<BR>MAP<INPUT TYPE=text SIZE="10" NAME="*SDMapName*" value="*SDVMapName*">
+<input type="submit" value="Change Commandline"></form>
+
+<FORM ACTION="/CHANGE" METHOD="GET">
+<INPUT TYPE=hidden NAME="*SDGameType*" value="cstrike">
+<INPUT TYPE=hidden NAME="*SDMapName*" value="de_dust">
+<input type="submit" value="Restore default commandline"></form>
+</SD>
+
+
+</SD>
+</div>
+</body></html>

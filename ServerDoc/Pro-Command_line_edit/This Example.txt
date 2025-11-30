@@ -1,0 +1,10 @@
+You will need a valid serverdoc pro key to run this example.
+
+In this example the command line is loaded from the "run" line in wwwconfig.cfg
+HTTP port for remote access is started on port 4101 with user "myname" and password "mypass"
+(Visit http://127.0.0.1:4101/ when serverdoc is running)
+
+When the server is stopped remote clients can edit part of the command line. This example shows a dropdown 
+selection for game type and input box for map. Radio input selection can also be used.
+
+Other options such as Rcon_password can be changed using same system.

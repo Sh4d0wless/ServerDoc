@@ -1,0 +1,4 @@
+.\hlserver\hlds -console -game cstrike +map blah
+.\hlserver\hlds -console -game dod +map blah
+.\sof2\SOF2MP.EXE
+.\bf2demo\bf2_w32ded.exe

@@ -1,0 +1,1 @@
+Just an almost empty folder to show sdcontrol will ignore this one.

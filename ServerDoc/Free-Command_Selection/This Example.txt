@@ -1,0 +1,6 @@
+In this example the command line is loaded from wwwrotate.dat by a scheduled event in schedule.txt
+
+Also remote access on port 4100 is available (user/pass = myname / mypass )
+View the remote control panel when serverdoc is running by going to:
+http://127.0.0.1:4100
+(replace 127.0.0.1 with you IP address when not viewing from local computer)

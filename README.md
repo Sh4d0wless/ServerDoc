@@ -1,7 +1,7 @@
 
 <html>
 <head>
-    <title>Serverdoc - Restart crashed servers applications and programs</title>
+    Serverdoc - Restart crashed servers applications and programs
 </head>
 <body>
 <center><B><font size=+2>Serverdoc</font></B><BR>

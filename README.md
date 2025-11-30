@@ -6,7 +6,7 @@
 <body>
 <center><B><font size=+2>Serverdoc</font></B><BR><BR><BR>
 <a href= "http://www.serverdoc.com/"><img src="https://www.serverdoc.com/images/sdimages/sd_selection.gif"></a><BR><BR><BR>
-[<a href ="about.php">About</a>] [<a href ="gettingstarted.php">Getting Started</a>] [<a href ="userguide.php">Userguide</a>]<BR><BR><BR>
+[<a href ="ABOUT.md">About</a>] [<a href ="gettingstarted.php">Getting Started</a>] [<a href ="userguide.php">Userguide</a>]<BR><BR><BR>
 </center><BR>
 <center><BB>
 Restart crashed servers and applications! Grab the latest serverdoc free from:<BR>

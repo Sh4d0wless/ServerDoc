@@ -1,23 +1,14 @@
+Serverdoc - Restart crashed servers applications and programs
 
-
-    Serverdoc - Restart crashed servers applications and programs
-
-<center><B><font size=+2>Serverdoc</font></B><BR>
-<a href= "http://www.serverdoc.com/"><img src="https://www.serverdoc.com/images/sdimages/sd_selection.gif"></a><BR>
+<center><B><font size=+2>About Serverdoc</font></B><BR><BR>
+<a href= "http://www.serverdoc.com/"><img src="https://www.serverdoc.com/images/sdimages/sd_selection.gif"></a><BR><BR>
 </center>
 
-Serverdoc
+
 [](http://www.serverdoc.com/)
-[[About](about.php)] [[Getting Started](gettingstarted.php)] [[Userguide](userguide.php)]
-
-
-
-
-
-
+[[README](README.md)] [[Getting Started](gettingstarted.php)] [[Userguide](userguide.php)]
 
 What does ServerDoc do
-
 
 
 <center> <p><img SRC="https://www.serverdoc.com/images/sdimages/serverdoc.gif" height=80 width=284><img SRC="https://www.serverdoc.com/images/sdimages/serverdoc2.gif" height=80 width=282>
@@ -27,15 +18,8 @@ Example remote access pages:<BR>
 </center>
 
 
- 
-
 Example remote access pages:
- 
-
-
-
-
-  
+   
 What does ServerDoc do?
 -ServerDoc will start a program and check the program is still
 running every five seconds (default) and restart the program if required (if its

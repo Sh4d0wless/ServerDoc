@@ -1,13 +1,13 @@
 
 <html>
 <head>
-    <title>Serverdoc - Restart crashed servers applications and programs</title>
+    Serverdoc - Restart crashed servers applications and programs<BR><BR>
 </head>
 <body>
-<center><B><font size=+2>Serverdoc</font></B><BR>
-<a href= "http://www.serverdoc.com/"><img src="https://www.serverdoc.com/images/sdimages/sd_selection.gif"></a><BR>
-[<a href ="about.php">About</a>] [<a href ="gettingstarted.php">Getting Started</a>] [<a href ="userguide.php">Userguide</a>]<BR>
-</center><BR>
+<center><B><font size=+2>Serverdoc</font></B><BR><BR>
+<a href= "http://www.serverdoc.com/"><img src="https://www.serverdoc.com/images/sdimages/sd_selection.gif"></a><BR><BR>
+[<a href ="about.php">About</a>] [<a href ="gettingstarted.php">Getting Started</a>] [<a href ="userguide.php">Userguide</a>]<BR><BR>
+</center><BR><BR>
 <a href="#startup"><u>Serverdoc Startup</u></a> - read this and things will be easier :)<br>
 <br><a href="#Installing">
 <u>Installing &amp; Running Serverdoc</u></a><br><br>

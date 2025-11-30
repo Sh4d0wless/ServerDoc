@@ -10,7 +10,7 @@
 </center><BR>
 <center><BB>
 Restart crashed servers and applications! Grab the latest serverdoc free from:<BR>
-<a href="[http://www.serverdoc.com/downloads/serverdoc.exe](https://www.serverdoc.com/downloads/)">[http://www.serverdoc.com/downloads/serverdoc.exe](https://www.serverdoc.com/downloads/)</a><BR>
+<a href="http://www.serverdoc.com/downloads/serverdoc.exe">https://www.serverdoc.com/downloads/</a><BR>
 </center>
 
 </body>

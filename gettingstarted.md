@@ -1,15 +1,15 @@
 
 <html>
 <head>
-    <title>Serverdoc - Restart crashed servers applications and programs</title>
+    Serverdoc - Restart crashed servers applications and programs<BR><BR>
 </head>
 <body>
-<center><B><font size=+2>Serverdoc</font></B><BR>
-<a href= "http://www.serverdoc.com/"><img src="https://www.serverdoc.com/images/sdimages/sd_selection.gif"></a><BR>
-[<a href ="about.md">About</a>] [<a href ="gettingstarted.md">Getting Started</a>] [<a href ="userguide.md">Userguide</a>]<BR>
+<center><B><font size=+2>Serverdoc</font></B><BR><BR>
+<a href= "http://www.serverdoc.com/"><img src="https://www.serverdoc.com/images/sdimages/sd_selection.gif"></a><BR><BR>
+[<a href ="about.md">About</a>] [<a href ="gettingstarted.md">Getting Started</a>] [<a href ="userguide.md">Userguide</a>]<BR><BR>
 </center><BR>
 <Table><TR><TD>
-<B>NOTE:</B> For installation examples please download the installation examples in downloads section.<BR>
+<B>NOTE:</B> For installation examples please download the installation examples in downloads section.<BR><BR>
 <BR>
 <u>Getting started</u><br>
 <B>Installing Serverdoc</B><BR>
